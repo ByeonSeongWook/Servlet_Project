@@ -1,5 +1,6 @@
 # Servlet BBS Project
-<br/><br/>
+---
+
 ## 1. 프로젝트 소개
 
 - Java Servlet으로 MVC 패턴의 기초를 공부 하면서 만든 간단한 게시판 프로젝트입니다.
