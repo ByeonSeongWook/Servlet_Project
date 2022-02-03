@@ -14,7 +14,7 @@
 
 ## 3. 사용 기술
 
-<img src="[https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)"/> <img src="[https://img.shields.io/badge/Servlet-6DB33F?style=flat-square&logo=Servlet&logoColor=white](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)"/> <img src="[https://img.shields.io/badge/Oracle-4479A1?style=flat-square&logo=Oracle&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)"/> <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)"/> <img src="[https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <br/><br/><br/>
 
 ## 4. 소요 기간
